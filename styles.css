@@ -1,0 +1,43 @@
+
+    h1{
+        padding: 0 350px;
+        background-color:rgb(151, 243, 151);
+        
+    }
+    .active{
+        color:rgb(126, 255, 126);
+    }
+    #img{
+        padding-left: 40%;
+    }
+    #codi{
+        text-align: right;
+        background-color: rgb(126, 255, 126);
+    }
+    .causes{
+         font-size: 20px;
+        width: 150px;
+        background-color:rgb(126, 255, 126);
+        
+    }
+.vertical-menu {
+  width: 200px;
+}
+
+.vertical-menu a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu a.active {
+  background-color: rgb(126, 255, 126);
+  color: white;
+}
+</style>
