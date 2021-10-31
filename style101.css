@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(185, 199, 221);
+    padding: 0px 10%;
+}
+
+header img {
+    width: 100%;
+    height: 180px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.title {
+    position: absolute;
+    left: 162px;
+    top: 19px;
+    color: rgb(250, 250, 250);
+}
+
+.menu {
+    float: left;
+    display: block;
+    margin: 0;
+
+}
+.listItem a {
+    text-decoration: none;
+}
+.ul1{
+    display: flex;
+    list-style: none;
+    padding: 20px 0px;
+    justify-content: space-around;
+    
+}
+.nav-li a{
+    color: white;
+    text-decoration: none;
+}
+.nav1{
+    background-color: rgb(147, 180, 229);
+}
+.div0{
+    display: flex;
+}
+.div3{
+    display: flex;
+}
+.block{
+    width:60%;
+}
+#footer1{
+    text-align: center;
+}
